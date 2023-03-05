@@ -1,0 +1,114 @@
+.title {
+    position: relative;
+    text-align: center;
+    color: khaki;
+}
+
+.title h1 {
+    position: relative;
+    z-index: 0;
+    font-size: 100px;
+    font-weight: bold;
+    font-family: Helvetica;
+    top: 20px;
+    background-image: url("pattern.webp");
+}
+
+.brushes {
+    position: relative;
+    text-align: left;
+    top: 75px;
+}
+
+.brushes h2 {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: white;
+    border: 1px solid mediumspringgreen;
+    background-color: mediumspringgreen;
+}
+
+.brushes h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.brushes p {
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.brushes strong {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    color: blue;
+}
+
+.frames {
+    position: relative;
+    text-align: left;
+    top: 80px;
+}
+
+.frames h2 {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: white;
+    border: 1px solid lightcoral;
+    background-color: lightcoral;
+}
+
+.frames h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.frames p {
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.frames strong {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    color: blue;
+}
+
+.paint {
+    position: relative;
+    text-align: left;
+    top: 80px;
+}
+
+.paint h2 {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: white;
+    border: 1px solid skyblue;
+    background-color: skyblue;
+}
+
+.paint h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.paint p {
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.paint strong {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    color: blue;
+}
