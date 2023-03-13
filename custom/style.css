@@ -1,0 +1,57 @@
+body {
+    background-color: #6B6A6C;
+}
+
+.title {
+    position: relative;
+    text-align: center;
+} 
+
+.title h1 {
+    font-size: 58px;
+    font-family: Tahoma;
+    color: khaki
+}
+
+.prep {
+    position: relative;
+    text-align: left;
+}
+
+.prep h2 {
+    font-size: 30px;
+    font-family: Tahoma;
+    font-weight: bold;
+    color: white;
+    border: 1px solid #DCBE95;
+    border-width: 10px 10px;
+    background-color: #DCBE95;
+}
+
+.prep ul {
+    font-size: 20px;
+    font-family: Tahoma;
+    color: white;
+    font-weight: bold;
+}
+
+.prep img {
+    width: 25%;
+    height: auto;
+    float: left;
+}
+
+.ingredients {
+    position: relative;
+    text-align: left;
+}
+
+.ingredients h2 {
+    font-size: 30px;
+    font-family: Tahoma;
+    font-weight: bold;
+    color: white;
+    border: 1px solid #DCBE95;
+    border-width: 10px 10px;
+    background-color: #DCBE95;
+}
